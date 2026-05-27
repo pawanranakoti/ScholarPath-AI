@@ -116,7 +116,10 @@ The system:
 Add screenshots inside:
 
 ```text
-screenshots/
+screenshots/<img width="1092" height="225" alt="image" src="https://github.com/user-attachments/assets/b64cd9d0-ea22-447d-9d24-df661e36c3ad" /><img width="883" height="262" alt="image" src="https://github.com/user-attachments/assets/cca0f2ba-785c-4532-9789-1d3ade452e30" /><img width="883" height="262" alt="image" src="https://github.com/user-attachments/assets/caaa31d8-3be8-40c7-b9fd-bafd2a5ff2d9" />
+
+
+
 ```
 
 Example:
